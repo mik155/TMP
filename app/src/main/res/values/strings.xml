@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LAB06</string>
+    <string name="counter">GET COUNTER</string>
+    <string name="list_ac">LIST ACTIVITY</string>
+</resources>
